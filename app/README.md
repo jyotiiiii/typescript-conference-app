@@ -1,5 +1,17 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Instructions to change to Typescript
+(after using crete-react-app)
+```yarn add typescript @types/react @types/react-dom @types/node```
+
+change App.jsx to App.tsx
+(after changing the file extension and running yarn start
+the app will create a tsconfig file automatically
+
+https://github.com/DefinitelyTyped/DefinitelyTyped
+```yarn add @types/react-router-dom```
+
+
 ## Available Scripts
 
 In the project directory, you can run:
